@@ -1,1 +1,1 @@
-Created a rock paper scissors game within the console! Dare to play?
+Created a rock paper scissors game within the console! Win by getting to five points.
